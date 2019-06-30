@@ -1,7 +1,7 @@
 Dataset *citeulike-a* for CTRSR
 ============
 
-This dataset, citeulike-a, was used in the IJCAI paper 'Collaborative Topic Regression with Social Regularization' [Wang, Chen and Li]. It was collected from CiteULike and Google Scholar. CiteULike allows users to create their own collections of articles. There are abstracts, titles, and tags for each article. Other information like authors, groups, posting time, and keywords is not used in this paper 'Collaborative Topic Regression with Social Regularization' [Wang, Chen and Li]. The details can be found at http://www.citeulike.ort/faq/data.adp. 
+This dataset, citeulike-a, was used in the IJCAI paper 'Collaborative Topic Regression with Social Regularization' [Wang, Chen and Li]. It was collected from CiteULike and Google Scholar. CiteULike allows users to create their own collections of articles. There are abstracts, titles, and tags for each article. Other information like authors, groups, posting time, and keywords is not used in this paper 'Collaborative Topic Regression with Social Regularization' [Wang, Chen and Li]. The details can be found at http://www.citeulike.org/faq/data.adp. 
 
 It is partly from [Wang and Blei]. Note that the original dataset in [Wang and Blei] does not contain relations between items. We collect the tag information from CiteULike and citations from Google Scholar.
 
