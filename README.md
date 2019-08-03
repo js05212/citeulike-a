@@ -26,6 +26,14 @@ tags.dat		tags, sorted by tag-id's
 users.dat		rating matrix (user-item matrix)
 vocabulary.dat	corresponding words for file mult.dat
 
+## Data Format
+In citation.dat, each line corresponds to the edges linked to one node. For example, Line 1: 3 2 485 3284 means there are 3 edges linked to node 0 (0-based indexing), their ID's are 2, 485, and 3284.
+
+The file tags.dat lists all the tags. 
+
+The file item-tag.dat tells us what tags each node (article) has. For example 
+
+
 ## Reference:
 [Collaborative Topic Regression with Social Regularization](http://wanghao.in/paper/IJCAI13_CTRSR.pdf)
 ```
