@@ -31,7 +31,7 @@ In citation.dat, each line corresponds to the edges linked to one node. For exam
 
 The file tags.dat lists all the tags. 
 
-The file item-tag.dat tells us what tags each node (article) has. For example 
+The file item-tag.dat tells us what tags each node (article) has. For example, the first line: '17 4276 32443 37837 3378 7650 44590 42810 28819 43806 3805 25497 23779 42140 12234 37386 30698 43503' means that node 0 has 17 tags, and their ID's are 4276, ..., 43503.
 
 
 ## Reference:
