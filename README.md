@@ -33,6 +33,8 @@ The file tags.dat lists all the tags.
 
 The file item-tag.dat tells us what tags each node (article) has. For example, the first line: '17 4276 32443 37837 3378 7650 44590 42810 28819 43806 3805 25497 23779 42140 12234 37386 30698 43503' means that node 0 has 17 tags, and their ID's are 4276, ..., 43503.
 
+raw-data.csv: Note that different from other dat files that use 0-based indexing (ID counts from 0), raw-data.csv uses 1-based indexing (ID counts from 1).
+
 
 ## Reference:
 [Collaborative Topic Regression with Social Regularization](http://wanghao.in/paper/IJCAI13_CTRSR.pdf)
