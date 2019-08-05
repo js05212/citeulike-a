@@ -27,7 +27,7 @@ users.dat		rating matrix (user-item matrix)
 vocabulary.dat	corresponding words for file mult.dat
 
 ## Data Format
-In citation.dat, each line corresponds to the edges linked to one node. For example, Line 1: 3 2 485 3284 means there are 3 edges linked to node 0 (0-based indexing), their ID's are 2, 485, and 3284.
+In citation.dat, each line corresponds to the edges linked to one node. For example, Line 1: 3 2 485 3284 means there are 3 edges linked to node 0 (0-based indexing), their (0-based) ID's are 2, 485, and 3284. In other words article 'The metabolic world of escherichia coli is not small' is linked to 'Exploring complex networks', 'Community structure in social and biological networks', and 'Reconstruction of metabolic networks from genome data and analysis of their global structure for various organisms'.
 
 The file tags.dat lists all the tags. 
 
