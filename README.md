@@ -35,6 +35,9 @@ The file item-tag.dat tells us what tags each node (article) has. For example, t
 
 raw-data.csv: Note that different from other dat files that use 0-based indexing (ID counts from 0), raw-data.csv uses 1-based indexing (ID counts from 1).
 
+## See Also
+Another similar dataset from CiteULike, [citeulike-t](https://github.com/js05212/citeulike-t).
+
 
 ## Reference:
 [Collaborative Topic Regression with Social Regularization](http://wanghao.in/paper/IJCAI13_CTRSR.pdf)
